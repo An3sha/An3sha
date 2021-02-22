@@ -1,7 +1,7 @@
 ### Hi there, I'm Anisha  👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/anishastwt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anishastwt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fanishastwt&screen_name=anishastwt)
 
 
 ![alt text](https://github.com/An3sha/An3sha/blob/master/readme.jpg?raw=true)
