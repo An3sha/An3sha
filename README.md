@@ -9,11 +9,12 @@
 
 ## I'm an Undergraduate Student and I do competitive programming for fun!!!
 
-- 🔭 I just started with OSS this year
-- 🌱 I’m currently learning everything xP
+- 🔭 I watch anime and play games 🎮
+- 🌱 I’m currently spending my time on learning advance cpp and giving contests
 - 👯 I’m looking to learn new technologies and meet some amazing people
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play badminton
+- ⚡ Fun fact: I love to paint🎨 and play badminton🏸
+- 🎵I watch a lot of movies and listen to music while I code 
 
 ### Spotify Playing 🎧
 
