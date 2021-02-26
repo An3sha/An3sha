@@ -16,6 +16,9 @@
 - ⚡ Fun fact: I love to paint🎨 and play badminton🏸
 - 🎵I watch a lot of movies and listen to music while I code 
 
+### Wanna check my recommendations:point_right: [Click Here](https://an3sha.github.io/Anime-List/):sparkles:
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Anisha Spotify Playing" width="350" />](https://open.spotify.com/playlist/4khfCDVh974lTQVktknG7n)
