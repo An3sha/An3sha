@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love to paint🎨 and play badminton🏸
 - 🎵I watch a lot of movies and listen to music while I code 
 
-### Wanna check my recommendations:point_right: [Click Here](https://an3sha.github.io/Anime-List/):sparkles:
+### Wanna check my recommendations:point_right: [Click Here](https://an3sha.github.io/Anime-List/)
 
 
 ### Spotify Playing 🎧
