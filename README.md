@@ -7,6 +7,7 @@
 ![alt text](https://github.com/An3sha/An3sha/blob/master/readme.jpg?raw=true)
 
 
+
 ## I'm an Undergraduate Student and I do competitive programming for fun!!!
 
 -  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>I watch anime and play games 🎮
@@ -28,7 +29,6 @@
 [<img align="left" alt="anishabcd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="anishasingh439@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-
 <br />
 
 ### Languages and Tools:
@@ -47,6 +47,9 @@
 <a align="center" href="https://An3sha.github.io">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=An3sha&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+</p>
+</a>
+
 
 <br />
 
@@ -61,7 +64,6 @@
 [gmail]: mailto:anishasingh439@gmail.com
 
 
-![](https://komarev.com/ghpvc/?username=sansyrox&color=green)
 
 
     
