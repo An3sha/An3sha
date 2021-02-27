@@ -10,10 +10,10 @@
 
 ## I'm an Undergraduate Student and I do competitive programming for fun!!!
 
--  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>I watch anime and play games 🎮
--  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently spending my time on learning advance cpp and giving contests  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>I love to paint🎨 and play badminton🏸
--  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>I watch a lot of movies and listen to music while I code 
+-  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/> I watch anime and play games 🎮
+-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/> I’m currently spending my time on learning advance cpp and giving contests  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
+- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="35" height="35"/> I love to paint🎨 and play badminton🏸
+-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/> I watch a lot of movies and listen to music while I code 
 
 ### Wanna check my recommendations [Click Here](https://an3sha.github.io/Anime-List/)
 
@@ -44,16 +44,16 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+
+<br />
+
+<br />
+
 <a align="center" href="https://An3sha.github.io">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=An3sha&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
 </p>
 </a>
-
-
-<br />
-
-<br />
 
 ---
 
