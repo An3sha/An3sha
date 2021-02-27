@@ -56,5 +56,5 @@
 [twitter]: https://twitter.com/anishastwt
 [instagram]: https://instagram.com/anishabcd
 [linkedin]: https://linkedin.com/in/an3sha
-[gmail]: anishasingh439@gmail.com
+[gmail]: mailto:anishasingh439@gmail.com
 
