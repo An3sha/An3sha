@@ -1,4 +1,4 @@
-### Hi there, I'm Anisha  👋
+### Hi there, I'm Anisha   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/anishastwt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fanishastwt&screen_name=anishastwt)
@@ -9,14 +9,12 @@
 
 ## I'm an Undergraduate Student and I do competitive programming for fun!!!
 
-- 🔭 I watch anime and play games 🎮
-- 🌱 I’m currently spending my time on learning advance cpp and giving contests
-- 👯 I’m looking to learn new technologies and meet some amazing people
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to paint🎨 and play badminton🏸
-- 🎵I watch a lot of movies and listen to music while I code 
+-  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>I watch anime and play games 🎮
+-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently spending my time on learning advance cpp and giving contests  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>I love to paint🎨 and play badminton🏸
+-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>I watch a lot of movies and listen to music while I code 
 
-### Wanna check my recommendations:point_right: [Click Here](https://an3sha.github.io/Anime-List/)
+### Wanna check my recommendations [Click Here](https://an3sha.github.io/Anime-List/)
 
 
 ### Spotify Playing 🎧
@@ -46,6 +44,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<a align="center" href="https://An3sha.github.io">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=An3sha&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+
 <br />
 
 <br />
@@ -57,4 +59,19 @@
 [instagram]: https://instagram.com/anishabcd
 [linkedin]: https://linkedin.com/in/an3sha
 [gmail]: mailto:anishasingh439@gmail.com
+
+
+![](https://komarev.com/ghpvc/?username=sansyrox&color=green)
+
+
+    
+
+
+
+
+ 
+
+
+    
+
 
