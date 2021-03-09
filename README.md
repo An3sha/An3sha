@@ -49,11 +49,7 @@
 
 <br />
 
-<a align="center" href="https://An3sha.github.io">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=An3sha&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-</p>
-</a>
+
 
 ---
 
