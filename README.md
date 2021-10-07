@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/anishastwt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fanishastwt&screen_name=anishastwt)
 
 
-![alt text](https://github.com/An3sha/An3sha/blob/master/readme.jpg?raw=true)
+<img src="https://github.com/An3sha/An3sha/blob/master/readme.jpg?raw=false" width="40%">
 
 
 
@@ -28,7 +28,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Anisha Spotify Playing" width="350" />](https://open.spotify.com/playlist/4khfCDVh974lTQVktknG7n)
+[<img src="https://github.com/An3sha/An3sha/blob/master/Art/3.gif" alt="Anisha Spotify Playing" width="200" />](https://open.spotify.com/playlist/4khfCDVh974lTQVktknG7n)
 
 ### Connect with me:
 
