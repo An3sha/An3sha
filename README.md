@@ -23,7 +23,7 @@
 
 
 
-### Wanna check my Anime recommendations [Click Here](https://an3sha.github.io/Anime-List/)
+### Wanna check my Anime recommendations? 💁🏻‍♀️ 🧚 🐸 🍄 👉 [Click Here](https://an3sha.github.io/Anime-List/)
 
 
 ### Spotify Playing 🎧
