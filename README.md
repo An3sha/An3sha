@@ -17,10 +17,13 @@
 
 ### Here's some of my works
 
-![alt text](https://github.com/An3sha/An3sha/master/art/to/1.jpg)
+<img src="https://github.com/An3sha/An3sha/blob/master/Art/1.jpg?raw=false" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/An3sha/An3sha/blob/master/Art/2.jpg?raw=false" width="40%">
 
 
-### Wanna check my recommendations [Click Here](https://an3sha.github.io/Anime-List/)
+
+
+
+### Wanna check my Anime recommendations [Click Here](https://an3sha.github.io/Anime-List/)
 
 
 ### Spotify Playing 🎧
