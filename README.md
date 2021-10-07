@@ -8,12 +8,14 @@
 
 
 
-## I'm an Undergraduate Student and I do competitive programming for fun!!!
+## I'm an Undergraduate Student and I do programming for fun!!!
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>  I watch anime and play games 🎮
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>  I’m currently spending my time on learning advance cpp and giving contests  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="35" height="35"/>  I love to paint🎨 and play badminton🏸
-- <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>  I make apps using Flutter📱
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>  I’m currently spending my time on learning advance cpp and React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
+- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="35" height="35"/>  I make apps using Flutter📱
+- <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>  I love to paint🎨 and play badminton🏸
+
+### Here's some of my works
 
 ### Wanna check my recommendations [Click Here](https://an3sha.github.io/Anime-List/)
 
