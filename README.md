@@ -12,7 +12,6 @@
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>   I watch anime and play games 🎮
 - <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>   I’m currently spending my time on learning advance cpp and React 
-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="35" height="35"/>   I make apps using Flutter📱
 - <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>   I love to paint🎨 and play badminton🏸
 
 <!-- ### Here's some of my works
